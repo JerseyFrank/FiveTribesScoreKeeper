@@ -1,2 +1,0 @@
-MainPackage=c:\users\fgarriel\documents\visual studio 2013\Projects\FiveTribesScoreKeeper\FiveTribesScoreKeeper\bin\Release\FiveTribesScoreKeeper_1.0.0.1_Bundle\FiveTribesScoreKeeper_1.0.0.1_AnyCPU.appx
-SymbolPackage=c:\users\fgarriel\documents\visual studio 2013\Projects\FiveTribesScoreKeeper\FiveTribesScoreKeeper\AppPackages\FiveTribesScoreKeeper_1.0.0.1_Test\FiveTribesScoreKeeper_1.0.0.1_AnyCPU.appxsym
